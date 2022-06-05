@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Work in Progress!
 
 <!--
 **firoz57/firoz57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
 <!--   <img src = "https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="200"/> -->
 <!--   <img src="https://giphy.com/gifs/movie-illustration-3ohzdDOsmf9PTYC2RO" width="200"/> -->
-  <img src="[https://giphy.com/embed/3ohzdDOsmf9PTYC2RO](https://media3.giphy.com/media/3ohzdDOsmf9PTYC2RO/giphy.gif?cid=790b7611ec7a09030740ad0f709b4f69a5b2b55a02a053f6&rid=giphy.gif&ct=g)" width="480" height="480" frameBorder="0" />
+  <img src="https://media3.giphy.com/media/3ohzdDOsmf9PTYC2RO/giphy.gif?cid=790b7611ec7a09030740ad0f709b4f69a5b2b55a02a053f6&rid=giphy.gif&ct=g" width="480" height="480"/>
 </div>
 
 
