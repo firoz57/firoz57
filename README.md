@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
 <!--   <img src = "https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif" width="200"/> -->
-  <img src="https://tenor.com/view/wow-world-of-warcraft-warcraft-alexstrasza-anime-gif-23880542" width="300"/>
+  <img src="https://tenor.com/view/wow-world-of-warcraft-warcraft-alexstrasza-anime-gif-23880542" width="200"/>
 </div>
 
 
