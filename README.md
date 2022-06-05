@@ -35,3 +35,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+[![Firoz57's GitHub stats](https://github-readme-stats.vercel.app/api?username=firoz57)](https://github.com/anuraghazra/github-readme-stats)
