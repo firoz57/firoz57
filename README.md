@@ -1,4 +1,4 @@
-### Hi there 👋, Work in Progress!
+<div id="welcome" align="center"># Hi there 👋</div>
 
 <!--
 **firoz57/firoz57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
