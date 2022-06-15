@@ -1,4 +1,4 @@
-<div id="welcome" align="center">### Hi there 👋</div>
+<div id="welcome" align="center"><h1>Hi there 👋</h1></div>
 
 <!--
 **firoz57/firoz57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
