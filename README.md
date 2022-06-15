@@ -33,5 +33,6 @@ Here are some ideas to get you started:
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=firoz57&show_icons=true&theme=ADD_THEME_HERE" width="400">
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=firoz57&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
